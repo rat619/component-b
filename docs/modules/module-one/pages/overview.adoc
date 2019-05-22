@@ -6,7 +6,7 @@ endif::[]
 :idprefix:
 :idseparator: -
 
-This is version *{page-component-version}* of Module One in Component B.
+This is version *{page-component-version}* of Module One in Component B. Domiserve
 
 == Page source
 
